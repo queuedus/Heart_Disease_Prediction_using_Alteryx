@@ -14,7 +14,8 @@ Non-Anginal Pain, ASY: Asymptomatic)
 of > 0.05 mV), LVH: showing probable or definite left ventricular hypertrophy by Estes'criteria].  
 Electrocardiogram (ECG) is used to record the electrical activity of the heart from different angles to both identify and locate pathology.  
 
-![](figure_1_ecg.PNG)
+![](figure_1_ecg.PNG)  
+
 7. FastingBS – Patient’s fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise]
 8. ExerciseAngina - Exercise-induced angina [Y: Yes, N: No] Angina is a type of chest pain
 caused by reduced blood flow to the heart (Mayo Clinic, 2021).
